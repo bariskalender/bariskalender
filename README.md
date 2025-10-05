@@ -1,6 +1,6 @@
 # 🚀 Barış Kalender's Portfolio
 
-![Banner](https://prnt.sc/wRRY0vZTr6qY)
+![Banner]([https://prnt.sc/wRRY0vZTr6qY](https://github.com/bariskalender/bariskalender1/blob/main/unnamed.png?raw=true))
 
 ### 🧑‍💻 About Me
 - 🎓 Passionate Computer Science Student and Aspiring Software Developer at EMU with a strong academic performance.
