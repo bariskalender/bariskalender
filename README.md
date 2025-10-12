@@ -46,7 +46,7 @@ A tool to capture full-page screenshots of websites instantly.
 
 ---
 
-## 💡 Favorite Quote / Closing Sentence
+## 💡 Favorite Quote 
 > _Don't eat with people you wouldn't starve with..._
 
 ---
