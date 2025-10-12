@@ -38,7 +38,7 @@ A tool to capture full-page screenshots of websites instantly.
 ---
 
 ## 📫 Contact Me
-You can update your contact details here:  
+ 
 - Email:bariskalender324@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/bar%C4%B1%C5%9F-kalender-559b15290/  
 - GitHub: https://github.com/bariskalender
