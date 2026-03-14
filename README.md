@@ -1,62 +1,94 @@
 <h1 align="center">Hi, I'm Barış Kalender 👋</h1>
 
-### 🧑‍💻 About Me
-- 🎓 Passionate Computer Science Student and Aspiring Software Developer at EMU with a strong academic performance.
-- 🏎️ Car enthusiast with deep knowledge and passion for automotive technologies.
-- 💻 Hands-on experience in C++, Python, Java , and web development projects.
-- 🤖 Interested in robotics, AI, and software engineering, with practical experience in small projects.
-- 🌍 Actively participates in various projects, events, trainings, and online technology communities. 
+<p align="center">
+Computer Science Student | Backend Development | Data Science
+</p>
 
 ---
 
-## 💻 Technologies & Languages
-Here are some technologies and languages I work with:
+# 📊 GitHub Stats
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  
-[![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=bariskalender&show_icons=true&theme=tokyonight" height="170"/>
 
-## 🚧 Projects
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bariskalender&layout=compact&theme=tokyonight" height="170"/>
 
-### 1️⃣ Focus App
-A productivity-focused app designed to help users manage tasks efficiently and stay focused.  
-*(Flutter-based mobile application)*
-
-### 2️⃣ Music Recommended Extension
-A Chrome extension that suggests music based on user preferences and listening history.  
-*(Chrome extension using web technologies)*
-
-### 3️⃣ Full Page Screenshot
-A tool to capture full-page screenshots of websites instantly.  
-*(Chrome extension for enhanced browsing experience)*
+</p>
 
 ---
 
-## 📫 Contact Me
- 
-- Email:bariskalender324@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/bar%C4%B1%C5%9F-kalender-559b15290/  
-- GitHub: https://github.com/bariskalender
-- Youthall: https://www.youthall.com/tr/me/Kalender333/ 
+# 📈 Activity Graph
+
+[![Barış's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bariskalender&theme=tokyo-night)](https://github.com/bariskalender)
 
 ---
 
-## 💡 Favorite Quote 
-> _Don't eat with people you wouldn't starve with..._
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/bariskalender/bariskalender/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
-## 💻 C++ Touch
-```cpp
-#include <iostream>
-using namespace std;
+# 🧑‍💻 About Me
 
-int main() {
-    cout << "Keep coding, keep growing! 💻" << endl;
-    return 0;
-}
+- 🎓 Computer Science student at **Eastern Mediterranean University (EMU)**
+- 💻 Interested in **backend development and software engineering**
+- ⚙️ Working with **.NET / C# , Python , C++**
+- 📊 Interested in **data science and algorithmic problem solving**
+- 🚀 Continuously improving programming skills through projects
+
+---
+
+# 💻 Technologies & Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+# 🚧 Projects
+
+### 📱 Focus App
+
+A **Flutter mobile application** designed to help users stay focused and manage tasks efficiently.
+
+---
+
+### 🧩 Focus Mode Chrome Extension
+
+A Chrome extension that helps eliminate distractions and improve productivity while browsing.
+
+---
+
+### ⚙️ .NET Practice Projects
+
+Small projects built while learning **C# and .NET**, including:
+
+- multithreading experiments
+- Task Parallel Library (TPL) exercises
+- asynchronous programming
+- small console applications
+
+---
+
+# 📫 Contact
+
+- Email: **bariskalender324@gmail.com**
+
+- LinkedIn:  
+https://www.linkedin.com/in/barış-kalender-559b15290
+
+- GitHub:  
+https://github.com/bariskalender
