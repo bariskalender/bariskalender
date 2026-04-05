@@ -56,28 +56,20 @@ Computer Science Student | Backend Development | Data Science
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
-# 🚧 Projects
+## 🚀 About Me (Quick View)
 
-### 📱 Focus App
-
-A **Flutter mobile application** designed to help users stay focused and manage tasks efficiently.
-
----
-
-### 🧩 Focus Mode Chrome Extension
-
-A Chrome extension that helps eliminate distractions and improve productivity while browsing.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+(.NET+%2F+C%23);Building+Scalable+Systems;Interested+in+Data+Science;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-### ⚙️ .NET Practice Projects
+## 🧠 Currently Working On
 
-Small projects built while learning **C# and .NET**, including:
-
-- multithreading experiments
-- Task Parallel Library (TPL) exercises
-- asynchronous programming
-- small console applications
+- Backend development with **.NET & C#**
+- Multithreading & async programming
+- SQL and database design
+- Data processing and algorithms
 
 ---
 
