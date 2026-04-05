@@ -56,7 +56,7 @@ Computer Science Student | Backend Development | Data Science
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
 
-## 🚀 About Me (Quick View)
+## 🚀 About Me 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+(.NET+%2F+C%23);Building+Scalable+Systems;Interested+in+Data+Science;Always+Learning+New+Technologies" />
