@@ -6,14 +6,14 @@ Computer Science Student | Backend Development | Data Science
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=bariskalender&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bariskalender&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bariskalender&layout=compact&theme=tokyonight" height="170"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bariskalender&theme=tokyonight" />
 </p>
 
 ---
