@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Barış Kalender 👋</h1>
 
 <p align="center">
-Computer Science Student | Backend Development | Data Science
+Computer Science Student | Backend Development | Data & AI
 </p>
 
 ---
