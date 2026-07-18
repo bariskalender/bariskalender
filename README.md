@@ -66,11 +66,13 @@ Computer Science Student | Backend Development | Data Science
 
 ## 🧠 Currently Working On
 
-- Backend development with **.NET & C#**
-- Multithreading & async programming
+- Python for AI, automation, and data workflows
+- Local AI applications with RAG and document-based question answering
+- Backend development with .NET & C#
 - SQL and database design
 - Data processing and algorithms
 
+  
 ---
 
 # 📫 Contact
